@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796517783136",
+    "project_id": "d-ea39d",
+    "storage_bucket": "d-ea39d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796517783136:android:3532c38a77f8fc104a9505",
+        "android_client_info": {
+          "package_name": "com.selva.john38"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sPNKEqKfKMBMb7D0r6P6uw5bZkd8_6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
